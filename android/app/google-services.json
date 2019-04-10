@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "260209172512",
+    "firebase_url": "https://pocnotification-a033b.firebaseio.com",
+    "project_id": "pocnotification-a033b",
+    "storage_bucket": "pocnotification-a033b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260209172512:android:8112090cf47b9c50",
+        "android_client_info": {
+          "package_name": "com.pocnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD58VfjFF8ckzFgW4YlqWsVW54-760wgYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260209172512-l3vffup920cj4him6e1t4lpdhund7aat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
